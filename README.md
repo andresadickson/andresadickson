@@ -2,7 +2,6 @@
 
 🚀 Bem vindo ao meu perfil GitHub 🚀
 
-- 🔭 Atualmente estou em busca da minha primeira oportunidade na area de T.I ...
 - 📚 Faço o curso de Análise e desenvolvimento de sistemas pela Uicesumar EAD
 - ✏️ Atualmente estou estudando mais sobre desenvolvimento Web..
 - 😄 Pronomes: ELA/DELA ...
