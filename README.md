@@ -3,7 +3,7 @@
 🚀 Bem vindo ao meu perfil GitHub 🚀
 
 - 📚 Faço o curso de Análise e desenvolvimento de sistemas pela Uicesumar EAD
-- ✏️ Atualmente estou estudando mais sobre desenvolvimento Web..
+- ✏️ Atualmente estou estudando mais sobre Teste de Software e QA..
 - 😄 Pronomes: ELA/DELA ...
 
 ### Ferramentas e Tecnologias...
