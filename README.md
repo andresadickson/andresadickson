@@ -1,8 +1,10 @@
-## Hello Devs, me chamo Andresa Dickson ! 
+## Hello Devs, me chamo Andresa! 
 
 🚀 Bem vindo ao meu perfil GitHub 🚀
- 
- EM CONSTRUÇÃO...
+- 📚 Faço o curso de Análise e desenvolvimento de sistemas pela Uicesumar EAD
+- ✏️ Atualmente estou estudando mais sobre desenvolvimento Web e Lógica de programação..
+🔭  Estou em busca da minha primeira oportunidade na area de T.I ...
+- 😄 Pronomes: ELA/DELA ...
 
 ### Ferramentas e Tecnologias...
 
@@ -24,9 +26,7 @@
 <div>
 <a href="https://github.com/andresadickson">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresadickson&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresadickson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresadickson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  
 
 
